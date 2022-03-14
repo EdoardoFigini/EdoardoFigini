@@ -1,5 +1,5 @@
 # Edoardo Figini
-- Instagram: [@edoardo_figni](https://www.instagram.com/edoardo_figini)
+- Instagram: [@edoardo_figini](https://www.instagram.com/edoardo_figini)
 - Currently Sudying Computer Science Engineering at Politecnico di Milano
 
 <!---

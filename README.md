@@ -1,6 +1,6 @@
 # Edoardo Figini
 
-- Currently sudying Computer Science and Engineering at Politecnico di Milano
+- Currently studying Computer Science and Engineering at Politecnico di Milano
 - Interested in Cybersecurity and Game Development
 - Instagram: [@edoardo_figini](https://www.instagram.com/edoardo_figini)
 

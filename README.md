@@ -2,7 +2,7 @@
 
 - Currently studying Engineerinf of Computing Systems at Politecnico di Milano
 - Interested in Cybersecurity and Game Development
-- Instagram: [@edoardo_figini](https://www.instagram.com/edoardo_figini)
+<!-- - Instagram: [@edoardo_figini](https://www.instagram.com/edoardo_figini)-->
 
 <!--
 ![](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)

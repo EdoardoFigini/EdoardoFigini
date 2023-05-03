@@ -11,10 +11,10 @@
 ![](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=EdoardoFigini&show_icons=true">
-
+<!-- img src="https://github-readme-stats.vercel.app/api?username=EdoardoFigini&show_icons=true">-->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoFigini&langs_count=5&layout=compact">
+    
 <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
-
 
 ![](https://komarev.com/ghpvc/?username=EdoardoFigini&style=flat&color=blueviolet)
 ![](https://img.shields.io/github/followers/EdoardoFigini?style=flat&color=blueviolet)

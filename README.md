@@ -12,7 +12,7 @@
 -->
 
 <!-- img src="https://github-readme-stats.vercel.app/api?username=EdoardoFigini&show_icons=true">-->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoFigini&langs_count=5&layout=compact">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoFigini&langs_count=5&layout=compact&count_private=true&theme=dark">
     
 <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 

@@ -1,4 +1,4 @@
-# Edoardo Figini
+[![Edoardo Figini](https://readme-typing-svg.demolab.com/?lines=Edoardo+Figini&color=019bf1&size=30)](https://git.io/typing-svg)
 
 - Currently studying Engineering of Computing Systems at Politecnico di Milano
 - Interested in Cybersecurity and Game Development

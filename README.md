@@ -9,7 +9,7 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoFigini&langs_count=5&layout=compact&count_private=false&theme=dark">
 
 
-[![](https://skillicons.dev/icons?i=c,cs,python,java,powershell,neovim,vscode,linux,latex,blender)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,python,java,neovim,latex,blender)](https://skillicons.dev)
 
 ---
 

@@ -1,15 +1,13 @@
 [![Edoardo Figini](https://readme-typing-svg.demolab.com/?lines=Edoardo+Figini&color=019bf1&size=30)](https://git.io/typing-svg)
 
-- Currently studying Engineering of Computing Systems at Politecnico di Milano
-- Interested in Cybersecurity
+- Currently studying Computer Science and Engineering at Politecnico di Milano
+- Interested in OS dev, Embedded dev, and Language dev 
 
 ---
 ### Skills
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoFigini&langs_count=5&layout=compact&count_private=false&theme=dark">
 
-
-[![](https://skillicons.dev/icons?i=c,python,java,neovim,latex,blender)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,rust,python,java,neovim,latex,blender)](https://skillicons.dev)
 
 ---
 
